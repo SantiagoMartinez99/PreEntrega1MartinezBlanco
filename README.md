@@ -8,8 +8,11 @@
 
 ---
 
-Descripción del proyecto
+**Descripción del proyecto:**
+
 En este avance se muestra el uso basico de los condicionales, funciones y ciclos mostrados en clase
+
+# NOTA:
 
 Debido a que aun no se llega al tema de matrices/diccionarios se decide mantener temporalmente el codigo de la siguiente manera:
 
